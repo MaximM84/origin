@@ -1,1 +1,5 @@
-txt
+tmp
+*old
+_backup
+Thumbs.db
+DS_Store
